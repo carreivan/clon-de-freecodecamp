@@ -31,4 +31,7 @@ h1{
 .contenedor-principal {
     min-width: 600px;
     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
